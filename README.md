@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=E683D9&center=true&random=false&width=435&lines=Hello+World!+%F0%9F%A4%97;My+name+is+Jennifer;Full-Stack+Developer+%F0%9F%92%9C" alt="Typing SVG" /></a>
 </p>
 
-Atualmente estou imersa nos estudos como aluna de tecnologia da informação no [**IFSP - Campus São José do Rio Preto**](https://github.com/IFSP-SaoJosedoRioPreto).
+Formada pelo [**IFSP - Campus São José do Rio Preto**](https://github.com/IFSP-SaoJosedoRioPreto).
 
 💻 **O Que Me Move:**
 
